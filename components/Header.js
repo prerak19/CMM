@@ -34,7 +34,7 @@ class Header extends Component {
         <nav className="navbar navbar-expand-md cmmHeader">
           <div className="d-md-flex justify-content-between align-items-center w-100">
             <a className="navbar-brand" >
-              <img src="/static/img/logo.png" width="45" alt="img" />
+              <img src="static/img/logo.png" width="45" alt="img" />
             </a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-icon"></span>
@@ -43,7 +43,7 @@ class Header extends Component {
             </button>
             <div className="input-group position-relative location_search">
               <div className="input-group-prepend">
-                <div className="input-group-text"><img src="/static/img/location.png" alt="img" /></div>
+                <div className="input-group-text"><img src="static/img/location.png" alt="img" /></div>
               </div>
               <input type="text" className="form-control" id="inlineFormInputGroup" placeholder="Username" value="Ahmedabad" />
             </div>

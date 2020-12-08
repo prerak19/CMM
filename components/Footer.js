@@ -30,7 +30,7 @@ class Footer extends Component {
               <div className="row">
                 <div className="col-md-5 col-sm-12">
                   <a className="mb-4 float-left w-100">
-                    <img src="/static/img/logof.png" width="220" alt="img" />
+                    <img src="static/img/logof.png" width="220" alt="img" />
                   </a>
                   <p className=" float-left w-100">We are Century Mega Mart, Lorem ipsum dolore sit, Lorem <br />ipsum dolore sit, Lorem ipsum dolore sit, Lorem ipsum dolore sit, <br />Lorem ipsum dolore sit, Lorem ipsum dolore sit, </p>
                   <ul className="ftr_contact">
@@ -66,32 +66,32 @@ class Footer extends Component {
                     <div className="row">
                       <div className="col-md-4 col-sm-4 col-xs-6 col-6 p-2">
                         <a className="insta_post">
-                          <img src="/static/img/p14.png" width="100%" height="auto" alt="img" />
+                          <img src="static/img/p14.png" width="100%" height="auto" alt="img" />
                         </a>
                       </div>
                       <div className="col-md-4 col-sm-4 col-xs-6 col-6 p-2">
                         <a className="insta_post">
-                          <img src="/static/img/p16.png" width="100%" height="auto" alt="img" />
+                          <img src="static/img/p16.png" width="100%" height="auto" alt="img" />
                         </a>
                       </div>
                       <div className="col-md-4 col-sm-4 col-xs-6 col-6 p-2">
                         <a className="insta_post">
-                          <img src="/static/img/p18.png" width="100%" height="auto" alt="img" />
+                          <img src="static/img/p18.png" width="100%" height="auto" alt="img" />
                         </a>
                       </div>
                       <div className="col-md-4 col-sm-4 col-xs-6 col-6 p-2">
                         <a className="insta_post">
-                          <img src="/static/img/p15.png" width="100%" height="auto" alt="img" />
+                          <img src="static/img/p15.png" width="100%" height="auto" alt="img" />
                         </a>
                       </div>
                       <div className="col-md-4 col-sm-4 col-xs-6 col-6 p-2">
                         <a className="insta_post">
-                          <img src="/static/img/p17.png" width="100%" height="auto" alt="img" />
+                          <img src="static/img/p17.png" width="100%" height="auto" alt="img" />
                         </a>
                       </div>
                       <div className="col-md-4 col-sm-4 col-xs-6 col-6 p-2">
                         <a className="insta_post">
-                          <img src="/static/img/p19.png" width="100%" height="auto" alt="img" />
+                          <img src="static/img/p19.png" width="100%" height="auto" alt="img" />
                         </a>
                       </div>
                     </div>

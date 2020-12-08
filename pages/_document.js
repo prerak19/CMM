@@ -5,7 +5,6 @@ export default class MyDocument extends Document {
     return (
       <html>
         <Head>
-          <title>CMM</title>
           <meta name="description" content="Buy beautiful, high quality carpets for your home." />
         </Head>
         <body>

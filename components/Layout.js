@@ -4,14 +4,17 @@ import Footer from './Footer';
 import Header from './Header';
 
 export default class Layout extends Component {
-  render () {
+  render() {
     const { children } = this.props
     return (
-      <div className='layout'>
-        <Header />
-        {children}
-        <Footer/>
-      </div>
+      <>
+        <title>CMM</title>
+        <div className='layout'>
+          <Header />
+          {children}
+          <Footer />
+        </div>
+      </>
     );
   }
 }

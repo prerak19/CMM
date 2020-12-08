@@ -68,7 +68,7 @@ class Index extends Component {
 								<div className="col-md-4 col-sm-12 text-center">
 									<a  className="prod_img_lg">
 										<div className=" mx-auto mb-3">
-											<img src="static/img/p1.png" width="auto" height="270" alt="img" />
+											<img src="/static/img/p1.png" width="auto" height="270" alt="img" />
 										</div>
 										<p className="prod_name">
 											Chips & Namkeens
@@ -78,7 +78,7 @@ class Index extends Component {
 								<div className="col-md-4 col-sm-12 text-center">
 									<a  className="prod_img_sm">
 										<div className=" mx-auto mb-4">
-											<img src="static/img/p26.png" width="auto" height="100" alt="img" />
+											<img src="/static/img/p26.png" width="auto" height="100" alt="img" />
 										</div>
 										<p className="prod_name">
 											Biscuit & Cookies
@@ -86,7 +86,7 @@ class Index extends Component {
 									</a>
 									<a  className="prod_img_sm">
 										<div className=" mx-auto mb-4">
-											<img src="static/img/p27.png" width="auto" height="100" alt="img" />
+											<img src="/static/img/p27.png" width="auto" height="100" alt="img" />
 										</div>
 										<p className="prod_name">
 											Sauce, Spreads & Dips
@@ -96,7 +96,7 @@ class Index extends Component {
 								<div className="col-md-4 col-sm-12 text-center">
 									<a  className="prod_img_sm">
 										<div className=" mx-auto mb-4">
-											<img src="static/img/p25.png" width="auto" height="100" alt="img" />
+											<img src="/static/img/p25.png" width="auto" height="100" alt="img" />
 										</div>
 										<p className="prod_name">
 											Frozen Snacks
@@ -104,7 +104,7 @@ class Index extends Component {
 									</a>
 									<a  className="prod_img_sm">
 										<div className=" mx-auto mb-4">
-											<img src="static/img/p29.png" width="auto" height="100" alt="img" />
+											<img src="/static/img/p29.png" width="auto" height="100" alt="img" />
 										</div>
 										<p className="prod_name">
 											Soups, Noodles & Pastas
@@ -121,28 +121,28 @@ class Index extends Component {
 							<div className="col-md-3 col-sm-6 col-6 col-xs-6 text-center">
 								<a  className="prod_img_sm">
 									<div className=" mx-auto mb-4">
-										<img src="static/img/offer1.png" width="auto" height="170" alt="img" className="shadow rounded-circle" />
+										<img src="/static/img/offer1.png" width="auto" height="170" alt="img" className="shadow rounded-circle" />
 									</div>
 								</a>
 							</div>
 							<div className="col-md-3 col-sm-6 col-6 col-xs-6 text-center">
 								<a  className="prod_img_sm">
 									<div className=" mx-auto mb-4">
-										<img src="static/img/offer2.png" width="auto" height="170" alt="img" className="shadow rounded-circle" />
+										<img src="/static/img/offer2.png" width="auto" height="170" alt="img" className="shadow rounded-circle" />
 									</div>
 								</a>
 							</div>
 							<div className="col-md-3 col-sm-6 col-6 col-xs-6 text-center">
 								<a  className="prod_img_sm">
 									<div className=" mx-auto mb-4">
-										<img src="static/img/offer3.png" width="auto" height="170" alt="img" className="shadow rounded-circle" />
+										<img src="/static/img/offer3.png" width="auto" height="170" alt="img" className="shadow rounded-circle" />
 									</div>
 								</a>
 							</div>
 							<div className="col-md-3 col-sm-6 col-6 col-xs-6 text-center">
 								<a  className="prod_img_sm">
 									<div className=" mx-auto mb-4">
-										<img src="static/img/offer4.png" width="auto" height="170" alt="img" className="shadow rounded-circle" />
+										<img src="/static/img/offer4.png" width="auto" height="170" alt="img" className="shadow rounded-circle" />
 									</div>
 								</a>
 							</div>
@@ -161,7 +161,7 @@ class Index extends Component {
 								<div className="col-md-3 col-sm-6 col-xs-6 col-6 text-center">
 									<a  className="prod_img_sm">
 										<div className=" mx-auto mb-4">
-											<img src="static/img/p20.png" width="auto" height="100" alt="img" />
+											<img src="/static/img/p20.png" width="auto" height="100" alt="img" />
 										</div>
 										<p className="prod_name">
 											Tea
@@ -171,7 +171,7 @@ class Index extends Component {
 								<div className="col-md-3 col-sm-6 col-xs-6 col-6 text-center">
 									<a  className="prod_img_sm">
 										<div className=" mx-auto mb-4">
-											<img src="static/img/p21.png" width="auto" height="100" alt="img" />
+											<img src="/static/img/p21.png" width="auto" height="100" alt="img" />
 										</div>
 										<p className="prod_name">
 											Coffee
@@ -181,7 +181,7 @@ class Index extends Component {
 								<div className="col-md-3 col-sm-6 col-xs-6 col-6 text-center">
 									<a  className="prod_img_sm">
 										<div className=" mx-auto mb-4">
-											<img src="static/img/p22.png" width="auto" height="100" alt="img" />
+											<img src="/static/img/p22.png" width="auto" height="100" alt="img" />
 										</div>
 										<p className="prod_name">
 											Juice & Cold Drinks
@@ -191,7 +191,7 @@ class Index extends Component {
 								<div className="col-md-3 col-sm-6 col-xs-6 col-6 text-center">
 									<a  className="prod_img_sm">
 										<div className=" mx-auto mb-4">
-											<img src="static/img/p23.png" width="auto" height="100" alt="img" />
+											<img src="/static/img/p23.png" width="auto" height="100" alt="img" />
 										</div>
 										<p className="prod_name">
 											Health Drinks
@@ -214,7 +214,7 @@ class Index extends Component {
 								<div className="col-md-4 col-sm-12 text-center">
 									<a  className="prod_img_lg">
 										<div className=" mx-auto mb-3">
-											<img src="static/img/p2.png" width="auto" height="270" alt="img" />
+											<img src="/static/img/p2.png" width="auto" height="270" alt="img" />
 										</div>
 										<p className="prod_name">
 											Soaps & Shower Gels
@@ -224,7 +224,7 @@ class Index extends Component {
 								<div className="col-md-4 col-sm-12 text-center">
 									<a  className="prod_img_sm">
 										<div className=" mx-auto mb-4">
-											<img src="static/img/p24.png" width="auto" height="100" alt="img" />
+											<img src="/static/img/p24.png" width="auto" height="100" alt="img" />
 										</div>
 										<p className="prod_name">
 											Men’s Grooming
@@ -232,7 +232,7 @@ class Index extends Component {
 									</a>
 									<a  className="prod_img_sm">
 										<div className=" mx-auto mb-4">
-											<img src="static/img/p28.png" width="auto" height="100" alt="img" />
+											<img src="/static/img/p28.png" width="auto" height="100" alt="img" />
 										</div>
 										<p className="prod_name">
 											Oral Care
@@ -242,7 +242,7 @@ class Index extends Component {
 								<div className="col-md-4 col-sm-12 text-center">
 									<a  className="prod_img_sm">
 										<div className=" mx-auto mb-4">
-											<img src="static/img/p25.png" width="auto" height="100" alt="img" />
+											<img src="/static/img/p25.png" width="auto" height="100" alt="img" />
 										</div>
 										<p className="prod_name">
 											Chips & Namkeens
@@ -250,7 +250,7 @@ class Index extends Component {
 									</a>
 									<a  className="prod_img_sm">
 										<div className=" mx-auto mb-4">
-											<img src="static/img/p30.png" width="auto" height="100" alt="img" />
+											<img src="/static/img/p30.png" width="auto" height="100" alt="img" />
 										</div>
 										<p className="prod_name">
 											Feminine Hygiene
@@ -267,7 +267,7 @@ class Index extends Component {
 							<div className="row">
 								<div className="col-md-4 col-sm-12 text-center">
 									<div className="mx-auto mb-4">
-										<img src="static/img/img1.png" width="auto" height="140" alt="img" />
+										<img src="/static/img/img1.png" width="auto" height="140" alt="img" />
 									</div>
 									<p className="other_links">
 										<b>Groceries & even more</b>
@@ -278,7 +278,7 @@ class Index extends Component {
 								</div>
 								<div className="col-md-4 col-sm-12 text-center">
 									<div className="mx-auto mb-4">
-										<img src="static/img/img2.png" width="auto" height="140" alt="img" />
+										<img src="/static/img/img2.png" width="auto" height="140" alt="img" />
 									</div>
 									<p className="other_links">
 										<b>Earn 5% cash back</b>
@@ -289,7 +289,7 @@ class Index extends Component {
 								</div>
 								<div className="col-md-4 col-sm-12 text-center">
 									<div className="mx-auto mb-4">
-										<img src="static/img/logo.png" width="auto" height="140" alt="img" />
+										<img src="/static/img/logo.png" width="auto" height="140" alt="img" />
 									</div>
 									<p className="other_links">
 										<b>Groceries & more</b>
@@ -328,7 +328,7 @@ class Index extends Component {
 												<h3 className="prod_name mb-3">Edible Oils</h3>
 												<button className="btn btn_deal">View Deal</button>
 											</div>
-											<div className="col-xs-6 col-md-6"><img src="static/img/p13.png" alt="img" width="auto" height="200" /> </div>
+											<div className="col-xs-6 col-md-6"><img src="/static/img/p13.png" alt="img" width="auto" height="200" /> </div>
 										</div>
 
 									</div>
@@ -336,7 +336,7 @@ class Index extends Component {
 								<div className="col-md-6 col-sm-12 sm-mb-3">
 									<div className="rectangle_shape bg_orange">
 										<div className="row d-flex align-items-center">
-											<div className="col-xs-6 col-md-6"><img src="static/img/p12.png" alt="img" width="auto" height="200" /> </div>
+											<div className="col-xs-6 col-md-6"><img src="/static/img/p12.png" alt="img" width="auto" height="200" /> </div>
 											<div className="col-xs-6 col-md-6">
 												<h5 className="upto">Up to</h5>
 												<h1 className="price">30%</h1>
@@ -364,7 +364,7 @@ class Index extends Component {
 								{productsArray.map((product, key) => {
 									return <SwiperSlide key={key}><div className="col-md-12 col-sm-12 text-center mx-auto my-2">
 										<a  className="float-left w-100">
-											<img src={`static/img/${product.img}`} alt="img" height="70" className="mx-auto" />
+											<img src={`/static/img/${product.img}`} alt="img" height="70" className="mx-auto" />
 											<p className="prod_slide_title mt-2 mb-0">title</p>
 										</a>
 									</div></SwiperSlide>
